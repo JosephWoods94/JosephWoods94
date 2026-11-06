@@ -15,7 +15,6 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/BCS%20Accredited-Data%20Analysis%20Diploma-007ACC?style=for-the-badge" alt="Data Analysis Diploma"/>
     <img src="https://img.shields.io/badge/Certification-CompTIA%20Data%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Data+"/>
     <img src="https://img.shields.io/badge/Certification-BCS%20Business%20Analysis%20Foundation-007ACC?style=for-the-badge" alt="BCS Business Analysis Foundation"/>
   </p>
