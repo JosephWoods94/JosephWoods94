@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm [Your Name]</h1>
+  <h1>Hi, I'm [Joe Woods]</h1>
   <h3>Data Analyst | Turning raw data into decisions that matter</h3>
 
   <p>
@@ -23,7 +23,7 @@
 
 ### About Me
 
-I am a Data Analyst with a BCS-accredited diploma, trained in the full data pipeline from raw extraction and cleaning through to statistical insight, machine learning, and stakeholder-ready visualisations.  
+I am a Data Analyst with a CompTIA Data+ certification, trained in the full data pipeline from raw extraction and cleaning through to statistical insight and stakeholder-ready visualisations.  
 I care about doing analysis that is honest, reproducible, and actually useful.
 
 Currently open to full-time Data Analyst roles.
@@ -85,7 +85,7 @@ Currently open to full-time Data Analyst roles.
 
 ### Key Achievements
 
-- Completed a BCS-accredited Data Analysis Diploma
+- Completed a BCS-accredited Data Analysis course
 - Built end-to-end analysis projects from raw data to stakeholder-ready insights
 - Developed interactive dashboards and clear visualisations
 - Applied statistical methods and introductory machine learning techniques
@@ -111,7 +111,7 @@ Currently open to full-time Data Analyst roles.
 ### Currently Learning & Goals
 
 - Advanced SQL and data modelling
-- Deeper statistical methods and machine learning
+- Deeper statistical methods & machine learning
 - Advanced Power BI and Tableau techniques
 - Building a stronger portfolio with real-world datasets
 - Improving storytelling and stakeholder communication
@@ -125,7 +125,7 @@ Currently open to full-time Data Analyst roles.
 
 ### Education & Certifications
 
-- BCS Accredited Data Analysis Diploma
+- BCS Accredited Data Analysis Career Programme
 - CompTIA Data+
 - BCS Business Analysis Foundation
 
