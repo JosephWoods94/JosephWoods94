@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm [Joe Woods]</h1>
+  <h1>Hi, I'm Joe Woods</h1>
   <h3>Data Analyst | Turning raw data into decisions that matter</h3>
 
   <p>
