@@ -70,7 +70,6 @@ Currently open to full-time Data Analyst roles.
 | SQL | Writing complex queries, joins, CTEs, subqueries, and aggregations |
 | Visualisation | Interactive dashboards in Power BI and Tableau; publication-ready plots in Matplotlib and Seaborn |
 | Statistics | Descriptive stats, hypothesis testing, confidence intervals, time series |
-| Machine Learning | Supervised and unsupervised models, evaluation metrics, introduction to neural networks |
 | Communication | Translating findings for non-technical stakeholders and storytelling with data |
 | Ethics | Privacy-aware practice, bias identification, and fairness in analytical decisions |
 
